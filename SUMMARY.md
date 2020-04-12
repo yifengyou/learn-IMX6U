@@ -7,6 +7,7 @@
     * [VMware安装Ubuntu系统](docs/ph1/VMware安装Ubuntu系统.md)
     * [Ubuntu初次体验](docs/ph1/Ubuntu初次体验.md)
     * [虚拟机连接USB设备](docs/ph1/虚拟机连接USB设备.md)
+    * [Ubuntu终端操作与Shell命令](docs/ph1/Ubuntu终端操作与Shell命令.md)
 * [[第二期] ARM（MX6U）裸机](docs/ph2.md)
     * [[第二期] ARM（MX6U）裸机](docs/ph2.md)
 * [[第三期] 系统移植和跟文件系统构建](docs/ph3.md)
