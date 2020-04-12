@@ -11,6 +11,8 @@
     * [Ubuntu软件安装](docs/ph1/Ubuntu软件安装.md)
     * [Ubuntu文件系统结构](docs/ph1/Ubuntu文件系统结构.md)
     * [Ubuntu下的磁盘管理](docs/ph1/Ubuntu下的磁盘管理.md)
+    * [Ubuntu下压缩与解压缩](docs/ph1/Ubuntu下压缩与解压缩.md)
+    * [Ubuntu用户与用户组](docs/ph1/Ubuntu用户与用户组.md)
 * [[第二期] ARM（MX6U）裸机](docs/ph2.md)
     * [[第二期] ARM（MX6U）裸机](docs/ph2.md)
 * [[第三期] 系统移植和跟文件系统构建](docs/ph3.md)
