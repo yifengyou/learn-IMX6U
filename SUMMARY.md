@@ -20,6 +20,7 @@
     * [make工具和Makefile的引入](docs/ph1/make工具和Makefile的引入.md)
     * [Makefile基本语法](docs/ph1/Makefile基本语法.md)
     * [shell脚本入门](docs/ph1/shell脚本入门.md)
+    * [shell脚本条件判断+函数+循环](docs/ph1/shell脚本条件判断+函数+循环.md)
 * [[第二期] ARM（MX6U）裸机](docs/ph2.md)
     * [[第二期] ARM（MX6U）裸机](docs/ph2.md)
 * [[第三期] 系统移植和跟文件系统构建](docs/ph3.md)
