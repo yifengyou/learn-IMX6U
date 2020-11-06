@@ -13,6 +13,12 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * GitHub 地址 : <https://github.com/yifengyou/learn-imx6u>
 * GibBook 地址 : <https://yifengyou.gitbooks.io/learn-imx6u/content/>
 * GibPage 地址 : <https://yifengyou.github.io/learn-imx6u>
+* 正点原子【第一期】<https://www.bilibili.com/video/BV1vE411h7Fi>
+* 正点原子【第二期】<https://www.bilibili.com/video/BV1yE411h7uQ>
+* 正点原子【第三期】<https://www.bilibili.com/video/BV12E411h71h>
+* 正点原子【第四期】<https://www.bilibili.com/video/BV1fJ411i7PB>
+
+
 
 ## 目录
 
@@ -41,10 +47,11 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [交叉编译器的安装](docs/ph2/交叉编译器的安装.md)
     * [vscode软件的安装与使用](docs/ph2/vscode软件的安装与使用.md)
 * [[第三期] 系统移植和跟文件系统构建](docs/ph3.md)
-    * [[第三期] 系统移植和跟文件系统构建](docs/ph3.md)
+    * [正点原子官方系统镜像烧写实验-Windows下OTG烧写](docs/ph3/正点原子官方系统镜像烧写实验-Windows下OTG烧写.md)
 * [[第四期] 驱动开发](docs/ph4.md)
-    * [[第四期] 驱动开发](docs/ph4.md)
-
+    * [Linux驱动开发与裸机开发区别](docs/ph4/Linux驱动开发与裸机开发区别.md)
+    * [字符设备驱动开发基础实验](docs/ph4/字符设备驱动开发基础实验.md)
+    * [我的第一个Linux驱动-字符设备驱动框架](docs/ph4/我的第一个Linux驱动-字符设备驱动框架.md)
 
 
 

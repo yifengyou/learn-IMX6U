@@ -26,7 +26,9 @@
     * [交叉编译器的安装](docs/ph2/交叉编译器的安装.md)
     * [vscode软件的安装与使用](docs/ph2/vscode软件的安装与使用.md)
 * [[第三期] 系统移植和跟文件系统构建](docs/ph3.md)
-    * [[第三期] 系统移植和跟文件系统构建](docs/ph3.md)
+    * [正点原子官方系统镜像烧写实验-Windows下OTG烧写](docs/ph3/正点原子官方系统镜像烧写实验-Windows下OTG烧写.md)
 * [[第四期] 驱动开发](docs/ph4.md)
-    * [[第四期] 驱动开发](docs/ph4.md)
+    * [Linux驱动开发与裸机开发区别](docs/ph4/Linux驱动开发与裸机开发区别.md)
+    * [字符设备驱动开发基础实验](docs/ph4/字符设备驱动开发基础实验.md)
+    * [我的第一个Linux驱动-字符设备驱动框架](docs/ph4/我的第一个Linux驱动-字符设备驱动框架.md)
 
